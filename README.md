@@ -1,1 +1,1 @@
-# VideoQA-MLLMs
+# VideoQA-LLMs

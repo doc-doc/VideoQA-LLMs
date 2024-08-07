@@ -1,0 +1,702 @@
+qid,video_id,question,answer,type
+0,X2toGKgWMpE,what happened after the billiards,chat,2
+1,75Tc1nPmZFQ,what happened after playing volleyball,rest,2
+2,mvRoVXRGVGw,what happened after skiing,lying on ground,2
+3,836UrVGw6GI,what happened after stepping on the skateboard,introduce people,2
+4,JH9qiuPCkY4,what happened after the athlete went uphill,motorcycle jump,2
+5,JR9LosQmMvg,what happened after the athlete went uphill,jump up,2
+6,xizEiQZfJa4,what happened after playing ball,take cell phone,2
+7,XxW4XWySzOw,what happened after the boating,play with mud,2
+8,mSR-HpiJ0No,what happened after the dance,rest,2
+9,xND_kp-aYXw,what happened after the drumming,rest,2
+10,mV07bEBkIcM,what happened after the drumming,and then drums,2
+11,K7iw2_1BrIk,what happened after the game,audience left,2
+12,b_c17BmZCCs,what happened after the game,audience came to court,2
+13,dFGS7YCDk3Y,what happened after the game,raise hand to celebrate,2
+14,xS4twW2gXqc,what happened after the high jump,rest,2
+15,rsU73H6VyG8,what happened after the high jump,cheer,2
+16,9MN6GNhvwzA,what happened after taking the hula hoop,hopping hula hoop,2
+17,yCpdDJAW-jU,what happened to the person in the video after sweeping the snow,throw snowball,2
+18,f6vZaMgqDvQ,what happened after the show,to ground,2
+19,BkDbDnvoL28,what happened after the show,video end,2
+20,7rwDYzqfGgU,what happened after the show,audience applauded,2
+21,nDM4E9CD_y0,what happened after shoveling the snow,then shovel snow,2
+22,pmmQuksmTvw,what happened after the athlete started running,pole vault,2
+23,Pr5K2Jh2X94,what happened after the athlete started running,jump into sand pit,2
+24,-eJT11AuOa0,what happened after walking the dog,talk to passer by,2
+25,aGvpDyMNATI,what happened to the person in black before throwing the javelin,run up,2
+26,MVA568rRjzQ,what happened before playing tennis,serve,2
+27,16bJAOf1SJI,what happened before the ball game,take ball,2
+28,N75m1Z4RqbA,what happened before the dance,go on court,2
+29,n9EdHGz7ArI,what happened before drinking,introduction of products,2
+30,Nb6AQxxrihA,what happened before drinking,drink drink,2
+31,BMy7CBVxH5M,what happened before the end of the video,clean horse,2
+32,JKJ_EvP7JwQ,what happened before the end of the video,lens shaky,2
+33,PSB1nM3QXxg,what happened before the end of the video,end of demonstration,2
+34,32vYs9wKXE8,what happened before the hair was made up,comb ones hair,2
+35,xfV4V_AOVSM,what happened before the hair was made up,wash hair,2
+36,WGUzmra3h_w,what happened before the high jump,start,2
+37,snhPrCNubYA,what happened before the jumper's takeoff,run up,2
+38,Yg03CCu9GMo,what happened before the person in the video mopped the floor,add ice,2
+39,16czjUF1AA4,what happened before the pole vault,prepare for start,2
+40,26U3SkeZU6M,what happened before the rope skipping,shedding rope,2
+41,DIVaPURJHPo,what happened before the rope skipping,check rope,2
+42,390iVq_urQM,what happened before the skating,take skates,2
+43,28LdZLfdmMQ,what happened before the skating,get ready,2
+44,rMj2JWNJzkw,what happened before the start of the game,coach guidance,2
+45,RXT17X7lRoQ,what happened before the start of the game,referee throws the ball,2
+46,T3mcQnlsmq4,what happened before the man in the video cut the cat's nails,cat peppermint,2
+47,98ukqD62X5s,what happened before throwing the javelin,prepare starting,2
+48,WdtytUagoJs,what happened before throwing the javelin,start,2
+49,vFO70WwrQgE,what happened before the man in the striped short sleeve washed his hands,shoulder shoulder,2
+50,d_A-ylxNbFU,what happened to the person in the video before drinking,showcase wine,2
+51,W9H2qVnIWXs,what happened after bathing the dog,blower,2
+52,fh9d3gpT-8I,what happened after the man explained,blow up drum,2
+53,fhOmyyI0eQE,what happened after the man explained,pruning trees,2
+54,UzmsAb15Bso,what happened to the man in a sweater before falling down,squat,2
+55,AguxVxEWEs0,what happened before the person in blue turned,wrestling,2
+56,P8S8PIyPXxY,what happened before the person in blue turned,demonstrating,2
+57,YHqFNnhaFAY,what happened after the person in red went downhill,almost hit by car,2
+58,OQEKZXv6jSw,what happened to the person in the red clothes before jumping,run up,2
+59,-crpjVnFv0U,what happened to the person in the video after the dance,rest,2
+60,OYEKKzQjaJI,what happened to the person in the video before eating the ice cream,production process,2
+61,wdvQC41PGPk,what happened to the person in the video before playing,button button,2
+62,yUvSujxnFE0,what happened to the person in the video before playing the ball,throw ball,2
+63,OFTkwnSh-sQ,what happened before the person in yellow jumped,run up,2
+64,jibbgUBuuSA,what happened after the success of the athlete's attempt,be interviewed,2
+65,ghHZ9M-jx0w,hat happened after the man in white got the ball,go out,2
+66,CKSlgK_2FP4,what happened to the person in the video after picking up the tool,sharpening,2
+67,BmL2XGNrxc4,what happened to the person in the video after picking up the tool,chopping wood,2
+68,k--dW53UQWs,what does the fitness person do before they pull the equipment,take deep breath,2
+69,bBRzBh0gAZQ,where did the participants drop in after their takeoff,bunker,6
+70,_l251ZuOCYU,who received the ball after the referee's service,red jersey,8
+71,R-hsYQNtnn0,why does the man in blue shirt get off the pole after winning the game,express happiness,8
+72,0iqx7o5WYW8,why does the man in the black hat pass the ball after the ball,score,8
+73,tzP0lKSUv_o,why do the athletes hold their fist after weightlifting,express joy,8
+74,HtG-i1CG2Qs,why does the man in blue clothes wash their hands after using the toilet,keep healthy,8
+75,I1iUbyjWy7k,why does the man in red clothes run after striking the ball,speed up,8
+76,KsFid_YVsn0,why does the man in videos need to arrange neatly before dancing,beautiful,8
+77,0jdSl5-lMpY,why does the man who wear white clothes nail a nail before pulling the purple line,fixed thread,8
+78,ufrTSC3Dewg,why does the man in green run before pushing a round plate,pick up speed,8
+79,uIHWHnItois,why does the man wearing orange wear bow after they slide forward,reduce center of gravity,8
+80,H9PaZiWLgXU,why does the man wearing yellow cilps some lemon slices after putting the ice,decorate,8
+81,hIYN8cC3pEA,why does the man who wear white vests want to wave after jumping,balance,8
+82,qlK-c7hRqcA,why does the man with striped shirts wear yellow cloth to squatting down after tires,bullet dodging,8
+83,JGPhQX97OSE,why do they play music before the ball game begins,active atmosphere,8
+84,uM7QSskmloo,why does someone in the video pull the rope before pruning branches,maintain level,8
+85,0XTAq_xvquw,why do they want to display the tools before the video starts,convenient imitation,8
+86,SJ7jk5XAjng,why do they want to move your wrist before the wrench is on the wrist,prevent being injury,8
+87,7UwRRkgQSj4,why does the blonde woman gasp after tying her shoelaces,tired out,8
+88,cK0-WcGXacQ,why does the black man spin after throwing the discus,inertia,8
+89,_2txWbQfJrY,why do they spread cement before laying tiles in the video,fixed ceramic tile,8
+90,2bQx5igckJc,why do they want to display finished products after the end of green subtitles,easy understand,8
+91,iZT4XgzUHm4,what happened before the helmet-wearing person rode their bikes up the hill,accelerate,2
+92,a2IvS0xbNGQ,what happened to the person in the orange suit after the bounce,air rotation,2
+93,mixxaL3Bdv8,what happened to the person in the orange dress after the third jump,back somersault,2
+94,vnZmsOgWs0o,what happened to the person in the orange pants before he fell,skiing,2
+95,Ye_uVlSo1HI,what happened after the person in red jumped,table collapsed,2
+96,0q9yZPTBbus,what happened to the person in white after he blew his hair,tie up hair,2
+97,gkwLhml3mnA,what happened to the person in white after he retracted his right foot,open your hands,2
+98,RgiVa9GMYxE,what happened to the person in white before he bowed his head,shave sideburns,2
+99,YMOYyt3kSOs,what happened to the person in white before he threw the shot put,circle,2
+100,rApbE1VkEjE,what happened to the person in the yellow jacket after he bent over six times,turn head,2
+101,9FQ-VLkCZo8,what happened to the person after the game with the green clothes,rest,2
+102,R74yolowFPs,what happened to the ink-green short-sleeved person before pushing the disk,stride left foot,2
+103,45hcc_VI4t4,what happened to the person with the yellow hair after the camera switch,straighten back,2
+104,NDq29HQJVP0,what happened after the white person played hockey,rest,2
+105,GxDNGtoVjS0,what happened after the person in the video took the scissors,cut off,2
+106,K49OCArHjXI,what happened to the person who don't wear flippers after they give out their thumbs,anjali mudra,2
+107,CuLC5G7yWxA,what happened to the woman in the video after the wallpaper,look at effect,2
+108,kBTqTp0SKq8,what happened after the child with the stick hit the toy for the second time,toys have been raised,2
+109,cCimLg-8Dy4,what happened to the girl in black after she was blindfolded,waving,2
+110,i6wR9_tkg6A,what happened to the person in green after he cut the watermelon,pulp,2
+111,G_rVqf_hwXw,what happened to the person in the blue jacket after he left his arm,be pulled down,2
+112,Q5HdVXF390c,what happened to the person in the plaid shirts after they left the glass,stand up,2
+113,hIYN8cC3pEA,what happened after the person in the white vest jumped,wave,2
+114,SNja9iUdAiI,what happened after the person with the pigtail hit his opponent for the first time,return to place,2
+115,qSP3_C7QWpU,what happened after the person in the red vest was lifted,fell to ground,2
+116,4LF0hL-mgks,what happened after the person who first appeared on the video sat down,wash dishes,2
+117,kYkvyRKxwfY,what happened after the white person hit the ball on the sphere,lose ball,2
+118,QXN6odBnVmI,what happened after the black short-sleeved person wiped five times with his left hand,changing right hand,2
+119,gZB_XrTnDCI,what happened to the green person after he jumped,rotary handlebar,2
+120,Uae2MWoldTU,what happened after the person in the video assembled the christmas tree,turn on light,2
+121,a4gI4LC1rJk,what happened to the person in the video after he peeled the potatoes,put sweet potato in bowls,2
+122,A0b_pqaKCX8,what happened to the person in black after he drank the green liquid,vomit,2
+123,2nDJpvD-eZU,what happened to the person in the video after they cut the potatoes,put into water tank,2
+124,Oh3-DvDCpZ4,what happened after the white person stirred the dish,well cooked,2
+125,04qggWACGWk,what happened after the person in the video put hair cream on his hand,put on leg,2
+126,qgUHRwC3194,what happened to the person in the white short sleeve after he turned around,black pants swimmers,2
+127,uw9x69DT8_g,what happened after the person in the video rubbed his eyes with his hands,go on running,2
+129,an1R4BP97JY,what happened after the fertilizer was put in the soil,be cuddle,2
+130,jbCQY7V7O1s,what happened to the first person who showed up after he finished talking,go out of room,2
+131,GjcRJzPjbRI,what happened after the person in the grey vest turned and got up,shot put,2
+132,Bgi2Y85Mbwk,what happened after the person in the video took a sip,puff out smoke,2
+133,pVoM_kUQ4_E,what happened after the pumpkin lamp was modeled,audience applauded,2
+134,cQgP0-Id-p4,what happened to the person in the video after she won,celebrate,2
+135,FADShG5lyB8,what happened to men after they got on fitness equipment,exercise,2
+137,eLh51DwDp-E,what does woman wearing black clothes do after wearing shoes,take off shoes,2
+138,ETbbYC0OhL0,what did purple hair women do before falling down on purple dress woman,lift her up,2
+139,4JmFOPoKluM,what did the people do after they won the tug-of-war,take off long rope,8
+140,8tCRp3NKtkI,what does the blond man do after he steps on a grid,jump,8
+141,Dd5yTxwKzXw,what does the girl do after she finished her hair in the video,photo display,2
+142,eQwLUJ3P7wI,what does the long hair man do before the video ended,pull dog down,2
+143,FtRGOgg0Qh8,what does he do after the bike ride,lying on ground,2
+144,eJc8bebOF2A,what does the man do before the shot put,two circles of rotation,2
+145,ej_fSoVO0R8,what does this person do before putting a cake on an orange skin,rolling skin,2
+146,qiTQ02NDSlQ,what does the person in the blue jacket do after he took the bread,feed bread,2
+147,eKdtOKqLMRE,what did the man throw away after the show,drumstick,5
+148,Ar6TcWqwK-A,what did the person in the video do after turning on the lights,make face,8
+149,eKdtOKqLMRE,what did the person in the video do before he go on the stage,take off your shirt,2
+150,fvEaC-fTR4A,what happened to the screen after the table football match ended in the video,appearance of name,2
+151,eVkp83uGf3Y,what does the red vest man do before throwing the hammer,circle,2
+152,_2txWbQfJrY,what does the short sleeves person do after laying down the tiles,press ceramic tile,8
+153,Ar6TcWqwK-A,what happened after the person wiped the cup in the video,throw away tissue,2
+154,5oyenoaVB-w,what does the person at the beginning of the video wear after wearing the car,scarf,5
+155,FPf7mAgdy0I,what does the blond woman take before the hair,hairpin,2
+156,_fLhtWSCaSo,what happened after they pruned leaves in the video,branches and leaves fell,2
+157,FmfAB-ppHBs,what do they do after they had cigarettes,release white smoke,2
+158,elD1P_1oiUk,what does the person throw at the man in light blue shorts before drifting,rugby,2
+159,EQrcCmgraa8,what does the woman do before putting the barbell on the shelf,unload barbell,2
+160,eQ0sW4hJ9zU,what do you need to do before you start a new mower,plug igniter,2
+161,Em4ekFj4XIs,what does the blue shoe trainer do before the dog was trained to take the frisbee,training skills,2
+162,f1d7_TKXNYQ,what did the athlete do after throwing the javelin,movement of hand,8
+163,1IbkFHNA7fg,what happens to the person in a suit after the brick,clap hands,2
+164,BD9CAqD1Yf8,what happens after the group of people at the beginning of the video appeared,play volleyball,2
+165,BdRH3lpopLQ,what happens after a team played the ball,hold together,2
+166,p54LLMnyg54,what happens after wiping a window,continue down,2
+167,N5Dt3ycaun4,what happens after boxing,embrace,2
+168,hGPCJb2g1tQ,what happens after digging pits in people wearing gray clothes and hats,black container,2
+169,MQ9Ojge7CyA,what happens after diving,rest,2
+170,FaP7unySMOs,what happens after drinking water,put cup down,2
+171,1494UwmvAJM,what happens after eating,vertical thumb,2
+172,HJWwqjLf1I4,what happens after everyone in the video got into the water,swimming,2
+173,KXcVYfMuUGw,what happens after the man threw out the plate,dog catches the plate,2
+174,nGKc2t-NMYc,what happens to purple clothes after practicing horizontal bar gymnastics,then training,2
+175,wnNiWoJxfSQ,what happens after hitting the ball,running,2
+176,30hcRe-5_3M,what happens after playing football,clapping,2
+177,XCfrjEJkl3M,what happens after playing basketball,listen to coach,2
+178,MonWdYi3a0I,what happens after using the computer,bathe dog,2
+179,X_K7Aa3Aa-E,what happens after playing the guitar,chat,2
+180,f8SWWURHV1M,what happens after playing the piano,twist and a smile,2
+181,Feq-2NIDl94,what happens after putting the note in the bow,pinch with perturbed,2
+182,zEttEkAdHts,what happens after placing the banknote on the gift,fixed with adhesive paper,2
+183,F7K2oT7ADkk,what happens after putting the soap back on the stage,wash clothes,2
+184,9ZVWD0ZKXZg,what happens after rock climbing,boy comes down,2
+185,vSv1qMMt4Bk,what happens after shoveling snow,snow fall,2
+186,wh6P2C2avqc,what happens after sitting on fitness equipment,do bike ride,2
+187,vqyQF-1Zc_E,what happens after sitting on the rubber band,slide,2
+188,dskswWtslKc,what happens after surfing halfway,mans hand,2
+189,zOI9SjQpc_Q,what happens after the number 9 player kicked the ball,ball goal net,2
+190,J9KjpzKM8oc,what happens after the air cushion stuck on the stone,need some help to correct,2
+191,QImpWj3AJcY,what happens after the ball entered the cup,cup was removed,2
+192,Pjnuoa4o55c,what happens after playing the ball,ball is bounced back,2
+193,rrpEOrMpBuE,what happens after waving,camel came over,2
+194,kyx4MMmBr3A,what happens after the start of the biking,pulverized people lead,2
+195,3dWw9GLcOeA,what happens after the bird first slid off the roof,fly back to roof,2
+196,EXPYu9bfNcE,what happens after the black dog was flushed,blow dry,2
+197,iixZLnyLuN8,what happens to the brunette girl after eating the cone,play with toys,2
+198,_jV5sAOOHLk,what happens to the person in black clothes after they removed the tires,change tire,2
+199,cnMvMvVBXiI,what happens to the person wearing black clothes after pushing the car,fixed tire,2
+200,g1na24Bd5Rs,what happens after the person in black sat down,drink milk tea,2
+201,Ki13JIVwMdk,what happens after the black and white dog barked,go to black dog,2
+202,J1QB1y3vXLY,what happens after the blond woman opened her mouth,smile,2
+203,8tCRp3NKtkI,what happens after the blond man jumped the grid,bow,2
+204,IclzwpxVvIk,what happens to the blond woman after she finished her eyes,powdery base,2
+205,JcAAwYpJhm8,what happens after the blue cup fell into the pool,cup fell into water,2
+206,rCLGy2NA0aE,what happens after the blue man came down from the chair,turn head,2
+207,jEOtcfk220s,what happens after the blue team scored,blue team serve,2
+208,ys4_S3JHQjs,what happens after a boater in black,get home,2
+209,raxeBxPQqlk,what happens after the boy changed his dart head,throwing darts,2
+210,Y7aacWy3WDo,what happens after the brain .is cut,blood flow,2
+211,nciIPwJTok8,what happens after the car wash,car scrubbing,2
+212,WPYQ27GjFKc,what happens after the card was issued,take out chips,2
+213,W2Mh01F3K5c,what happens after the cement was painted on the wall,smooth and smooth,2
+214,aNsj5OrEGLY,what happens after the tomatoes are diced,treatment of chili,2
+215,sRNqK_QZbMs,what happens after the coach's demonstration,start training,2
+216,Jhcis4S2Vsg,what happens after the contestant launched the discus in the video,discus collision,2
+217,pMtu7fOHdII,what happens after the participants got together,fight,2
+218,zKYiTA6WBS4,what happens after the person in the black jacket curled hair,perm hand,2
+219,Son8UiVlzu0,what happens to the person wearing black clothes after the demonstration ,tutoring cadets,2
+220,0lbv0AE5gJQ,what happens after the disabled finished washing a white dress,wash clothes,2
+221,Znb6Y9m_PsQ,what happens to the dog in the video after jumping to the desk,eat ball,2
+222,ZAX6OojMg38,what happens to the dog in the video after jumping to the desk,dog planer,2
+223,7H1KylJRii8,what happens after pouring wine in the cup,wine precipitation,2
+224,9G172wz5Yqo,what happens after taking the elevator,start skiing,2
+225,tzP0lKSUv_o,what happens after the weightlifting of the athletes,clenching fist,2
+226,dU7jG8G5li0,what happens after the english word is engraved,assemble cake,2
+227,W97fdJ2Rn9g,what happens after you put your eyelashes on,clip eyelash,2
+228,Nc9yr4urskA,what happens after the fight,push people,2
+229,3Nd3Aai1bVA,what happens after passing the first corner of the game in the first place,brace with feet,2
+230,kD_EJjQCLoY,what happens after winning the front whee,take off faucet,2
+231,VZ5R9goklpo,what happens after the game starts,grab ball,2
+232,_G4EVIG9YaE,what happens after they draw up the stack in video,lay by small tree,2
+233,-pK2JheWido,what happens after the girl stand at the starting point,start skiing,2
+234,EETygPQ-j08,what happens after the blue girl help the sofa chair,stop roller skating,2
+235,cVFVREeD6hM,what happens after landscaping in the video,do edge decoration,2
+236,1xtKGlUp4Vg,what happens to the gray hair person after combing the dog,nail clipper,2
+237,rnI9vGr5V1k,what happens to the person in the plaid dress after wore the knife,look at blade,2
+238,62M1FRXsUiM,what happens after playing the harmonica,chat,2
+239,brJIpRGcBFU,what happens to the mower after it hit an obstacle,evade automatically,2
+240,5LGh56euaZs,what happens after the person in the video get on a huge ice floe,snowball,2
+241,pcLGX5qvUcI,what happens after the skates put down the hockey stick,slide out of site,2
+242,F-Z17rHI_ms,what happens after the man in the gray suit stand on his head,diving,2
+243,H33jSILKmfI,what happens after the kicker kicked his leg,punching,2
+244,b0qGo-HT5iQ,what happens after the woman closed her eyes,open ones eyes,2
+245,Pv4FwH2TC6Y,what happens after the woman finishes her eye shadow,video end,2
+246,Pho9Hgdvc0g,what happens after the woman riding a wheelbarrow,be interviewed,2
+247,s9PkkDEl6aY,what happens after the leader at the station ended,go down table,2
+248,8teo_0gxzgk,what happened after the man with long hair clenches his fist,blonde womens car wash,2
+249,8kaQq1mR2ys,what happens to the long-haired woman after diving,splash,2
+250,96vBhCFBbQk,what happens after the rubik's cube,look computer desktop,2
+251,li_mry59KCM,what happens after the man finish the plate,board stands up,2
+252,1vTHJMMPZN0,what happens after the man teased the dog,drive car,2
+253,ZLJ2BmBkLJg,what happens after the guy in the black jacket touched the shaving bubble,keep shaving,2
+254,7OcxT66BxX0,what happens after the man in the black hat put down the microphone,leave,2
+255,qiupddjDHDg,what happens after the person wearing the blue vest got another shovel,tilling,2
+256,rGOOlcdpfLg,what happens after the guy in the plaid coat twisted over the clothespin,take out gun,2
+257,qGLRri_c6n8,what happens after the man in the pink shirt raise his hands,turn around,2
+258,nnEPsdA0080,what happens after the man in white pulled the rope,be pulled by ship,2
+259,qZtdMXkHRXw,what happens after the person in the white jacket lowered his head,throwing darts,2
+260,ZJnXQw84xvo,what happens after the man in the white jacket turned the bucket upside down,tapping bucket,2
+261,H9PaZiWLgXU,what happens to the man in the yellow dress after putting ice in the cup,cilping some lemon slices,2
+262,_zqj6daJo9U,what happens after successful weight lifting in the video,bow to lens,2
+263,jBlG0L_M96g,what happens to the man who stepped on the jumper after he scores,jump,2
+264,lfbspF18Wrw,what happens after this guy took the cookie out ,eat up,2
+265,laU1Hvm5Dis,what happens after this man turns six laps,throw ball out,2
+266,HX6BeHLQh5s,what happens after the man wiped his shoes,shoes getting clean,2
+267,IYLJU87AkOg,what happens to the man wearing a hat after throwing darts for the first time,throw it to wall,2
+268,6G8m-vsGTA8,what happens after the man with the camera cut his head,drive car,2
+269,EDDbcCBnTQM,what happens after the man stopped spraying water,regulating nozzle,2
+270,ZsVfa3JIUNU,what happens to the person who took the microphone after the interview,start tug of war,2
+271,j81ndpMC9gI,what happens after spreading catnip,cut nails for cat,2
+272,28WDlVOgslg,what happens after paint nails,nail polish,2
+273,5nu47s7JrfY,what happens after pouring oil into the pan,frying eggs,2
+274,V9mLJJn8Lvw,what happens after origami,adhesive tape,2
+275,nkWMBJC2Qec,what happens after playing table tennis,rest,2
+276,TnP6coXzbLY,what happens to the people in the video after assembling the tires,blow up,2
+277,zO5JMTzLDHw,what happens after the man in the black jacket salut,go back to walk,2
+278,Gfu8e6R6jUU,what happens after the person wearing black shoes clapping,dance,2
+279,U2cCOj3LiAA,what happens after the man in the video pull the rope,stretch leg,2
+280,-p7aui3nAnc,what happens after the performers stopped performing,shot switching,2
+281,YRGiRmcHdUY,what happens after the man in the video grinds his knife,continue to grind knife,2
+282,GcjzvBatqb4,what happens after the orange guy pulled four times,stop,2
+283,I1iUbyjWy7k,what happens to the man in red after he play the ball,run,2
+284,KMK3_VeODlk,what happens after the person wearing the vest threw the ball out,hit each other,2
+285,uLphvdhunTY,what happens after the man in the video pull the rope,hand down,2
+286,I3tqWc5wG78,what happens after the man in the sweater chain pours the sauce,stir,2
+287,IDuoF51IMJ8,what happens after the man wearing the white head was hit by the ball,grey team celebrates,2
+288,HTSxgkgecS0,what happens after the person wearing the white hair change his direction,draw rubber rafts,2
+289,LPRLV0eVgfY,what happens to the person in the pink after he push the right swing,push left dolls,2
+290,8_fjIZkNHms,what happens to the purple lady after she hit the dog,dog ran away,2
+291,nc_NMp3vAH0,what happens after pushing curling,wait for,2
+292,TtewPltwuXw,what happens after the man in red stop playing the flute,speak,2
+293,8IrulONeC28,what happens after the red woman push a round block,block gliding,2
+294,qKp2QCheLwU,what happens after the man in the red hat salut,walk away,2
+295,iqyc2JM0uIU,what happens after the man in the red pour the finished wine into the cup,put slice of lemon,2
+296,pop8YCGQpWk,what happens after the player start,jump into sand pit,2
+297,f1d7_TKXNYQ,what happens after the man who is running throw the javelin,look javelin distance,2
+298,9SIPJd4Hls4,what happens after mixing salad,cooling,2
+299,x6pYeqq3O08,what happens after kicking the sand,rest,2
+300,3oy4P1gyU4k,what happens after the second video player appear after playing billiards,eliminated,2
+301,zA2zZPyYLlU,what happens after the ship in the video sailed,smoothly,2
+302,zYjLA99koBk,what happens to the boat in the video after it slip backwards,water is flooded,2
+303,mxn6WcmdNpA,what happens after tied shoe rope,get up to pay,2
+304,n832gDqfWl4,what happens after wipe shoes,change pair of shoes,2
+305,vBOFzuS-Djo,what happens after the short hair baby dive ,go ashore,2
+306,BWAedc31WdY,what happens to the short hair man after trimming the beard,flushing razor,2
+307,3Rzyta8op6s,what happens after the ball in the video is throw,emotional excitement,2
+308,BBKSKU6dGGk,what happens after shoveling into snow,throw snow on edge,2
+309,N4qhryre_TE,what happens after the somersault,interview,2
+310,Jdu5AqaWfz8,what happens after the staff put down the rope,start bungee jumping,2
+311,JY9oOSfjj_E,what happens after the standing man pulled the rope,start skiing,2
+312,W2eumNilwuI,what happens after the rope start,takeoff,2
+313,PkRvgIFREJU,what happens after the stones were throw,skip lattices,2
+314,pYaZLHpl_Ww,what happens to the man in the striped shirt after he take out the bottle,packing,2
+315,kTqt7ry3eVM,what happens after the person in the red swimsuit finished jumping water,got third,2
+316,Aj5ncX5G_2w,what happens after the table leg was burned in the video,darkened,2
+317,PBYg9ekd86w,what happens after the table tennis ball was thrown into the cup,drink water,2
+318,4JmFOPoKluM,what happens after the children and adults tug of war,lose match,2
+319,gr53ih2aFkE,what happens after they win the tug of war,run,2
+320,zV08tITKFMM,what happens after the man in gold spun twice,cow fell down,2
+321,4LpqPUWHH5k,what happens after the players lifted weights in video,throw barbell,2
+322,8A4cZXyDrkU,what happens after the white woman looked at the manual,screwing nut,2
+323,sk_pnoqXxhs,what happens to the water after the woman cleaned her baby,hold child,2
+324,kkji9hespu0,what happens to the woman after the water was boiling,cook noodles,2
+325,hG4VsZQQ2_c,what happens to the wood splitter after he helped the wood,continue to split wood,2
+326,v6P6bBPBXYw,what happens after the yellow team scored,hold together,2
+327,9snScUyE8_4,what happens to the vlond girl after talking,dishware,2
+328,QoRlOa6R1LY,what happens after the third subtitle appears,man jump down,2
+329,w10Nr_wOh8g,what happens after you post two wallpaper,cutting wallpaper,2
+330,nbHBjdE8oNo,what happens after washing,chat,2
+331,v6DdLg_Xnkg,what happens after wearing the contact lens of the right eye,wear good left eye,2
+332,rWfQj0X8WU4,what happens after wearing a jumper,start jumping,2
+333,v-UmNR5yeDc,what happens after the umpire begins,punches,2
+334,qZMcbBsQorE,what happens before the person wearing the gray vest stand up,jump,2
+335,oKJ1BnvHbbA,what happens to the person in the red dress before throwing the javelin,run up,2
+336,xMNmGr96O9U,what happens before playing bowling,take ball,2
+337,12Nafz_Yet4,what happens before boxing,exhibition,2
+338,WXH-Tj0-g4w,what happens before you clean up the garbage,garden cart,2
+339,mUmSJps9WJI,what happens before the christmas tree,dismantling light bulb,2
+340,woI_zP55qWo,what happens before diving,go to diver,2
+341,eg2s5lOfKGI,what happens before the exercise,step by step,2
+342,RlRrktN5iH4,what happens before yoga,sit down on your knees,2
+343,ngMxE3CnGVg,what happens before making lollipops,preparation materials,2
+344,HPKHDze6XfA,what happens before opening the door,snow removal,2
+345,zxpQHLwZCug,what happens before the man in blue cut wood,bend,2
+346,mXqmRAUsn9U,what happens before skateboarding ,get off car,2
+347,LL0uQO4q_wY,what happens before the third roll of curling,let curling round legs,2
+348,IMMoglaJ3RY,what happens before weeding weeds into garbage bags,weed,2
+349,mnNgZ-D5cKc,what happens before riding,garden cart,2
+350,X52XHYKeLiE,what happens before riding,wear gloves,2
+351,_a527xEzhkw,what happens before she plays the harmonica in video,fermation,2
+352,-8SgY4vW4xM,what happens before she shaved the dog in the video,shaving cutter,2
+353,ryFSf08mrkA,what happens before you stop shooting,put down saw,2
+354,FkbpD1zWdPw,what happens before the archery competition,rest,2
+355,4H9MMsj4mcM,what happens to the athlete before he get off the horse,pony fell down,2
+356,JvPVYSb_5o8,what happens before the athlete lift the barbell completely,take deep breath,2
+357,RLBfyIVpocE,what happens before the athlete throw the discus,circle,2
+358,s6fEIuHPJ4Y,what happens before the athlete throw the hammer,circle,2
+359,M2Y2Cw2kwDo,what happens before the athlete jump into the water,raise ones hands,2
+360,St1RRi-aeNM,what happens before the athletes throw the discus,turn two laps,2
+361,e-Xf13exY4E,what happens before the black man knock,drum,2
+362,ikUNgSw4Gys,what happens before the blond woman's tongue is caught,open ones mouth,2
+363,vBaiedxy1Uw,what happens to the blue boy before he throw water at the girl with long hair,finger guessing game,2
+364,5mWZY2XkWSQ,what happens before the boy come to the table,wave,2
+365,jDlvGWOdcqU,what happens before the car is supported,pull hand brake,2
+366,rM02KWikOo8,what happens to the kid before he go skateboarding,floating on water,2
+367,k6pN0WRr2Ws,what happens before the coach do the aerobics,open sound,2
+368,S7CW-si2JjA,what happens before the cream is wiped,cut cake,2
+369,NJRrhNrEMsk,what happens before the tire is removed,air pressure,2
+370,JGxf-jke0e8,what happens to the dog before it is touch,go to woman,2
+371,nbOsU2Vmp1U,what happens before making a drink,introduce,2
+372,9UvVeUYQLgA,what happens before the field shooting,prepare weapon,2
+373,XI7qJHE61zo,what happens before we mop the floor,sweep floor,2
+374,72_9wLYUDGM,what happens before the horizontal bar gymnastics,prepare bar,2
+375,LzPppxSWYNY,what happens to the athlete before he jump,run up,2
+376,9TjPn_ejmFU,what happens before the kid in the blue and white stripes paint the board,dipping pigment,2
+377,PTwe2IIo3To,what happens before the lady in gray stops,dance,2
+378,-EIsT868Trw,what happens before the gray woman jumps,squat,2
+379,e4kS-n7_LRU,what happens before the little girl licks the ice cream,sleep,2
+380,NjXCZYO3zwU,what happens before the magic cube is completed,count,2
+381,G0VWk5WqDp0,what happens before the blue vest is thrown out,pull hands back,2
+382,3kxP8qOtym8,what happened before the man in the gray vest kicked his foot,punches,2
+383,uWfQcDvel84,what happened before the man in the hat pushed the weeder,tidy wire,2
+384,s84PG-JfEwc,what happened before the man pulling the rope began to draw water,floating in water,2
+385,IGPZFun1Ok4,what happened before the man in the hat shook hands,bet on,2
+386,mZYWfmsYQPA,what happened before playing table tennis,introduction of pang ball,2
+387,N9VOdVOiPNM,what happened before the piercings,display ornaments,2
+388,FKtYeu2bJpA,what happened before practicing basketball,explanation skills,2
+389,uty4eGb_vvU,what happened before the red woman dance tai chi sword,stand straight,2
+390,vQ82ItCG1x4,what happened to the sailboat before driving,erect canvas,2
+391,40BPDWojssc,what happened before the shoeshine,dipping shoe oil,2
+392,EPsSfOEd3BU,what happened to female athletes before shot put out,circle,2
+393,LWt2FuU0uC4,what happened before the third player threw the shot,fooling around,2
+394,mVAP-WyEc7w,what happened before cutting tomatoes,sharpening,2
+395,JsPIzRsUtlE,what happened before the tug of war started,measuring distance,2
+396,fMVuGUBs2cs,what happened before the bartending,step by step,2
+397,0XTAq_xvquw,what happened before the video is shown,display tools,2
+398,0jdSl5-lMpY,what happened to the person in white before he pulled the purple line,nail nail,2
+399,vezvHLPR3P0,what happened before the white woman threw the hammer,rotate,2
+400,ILmZg0vz0Hg,what happened to the woman with the glasses before she decorated the box,speak,2
+401,Flm_SCK10GQ,what happened before pulled wrist,pre match preparation,2
+402,IIPKxzPjrWg,what happened to the girl in the tights before she went diving,wearing frog shoe,2
+403,6LsvBNqJuJY,what happened after the beginning of the woman's tattoo in the video,pose,2
+404,eiN5XPmwcEM,what happened to the man before shaving his beard,smear shaving blister,2
+405,P2xT7dlyX8Y,what happened before the audience appeared,play violin,2
+406,jhy6npIdn5o,what happened before decorating the christmas tree,send message,2
+407,uM7QSskmloo,what happened to the person in the video before pruning branches,pull rope,2
+408,wcxEkMoOmBk,what happened before curling hair,select curler,2
+409,ufrTSC3Dewg,what happened to the man in green before he pushed the plate round,run,2
+410,ECZb_tQZ4Pg,what happened before the licensing of girls wearing glasses,stake,2
+411,X6CBZwwRdQQ,what happened before rubbing sunscreen ,introduce,2
+412,Db2Dnt2OOo0,what happened before tattoo in the video,prepare tools,2
+413,_2txWbQfJrY,what happened before the person in the short sleeves tiled the tile,cement,2
+414,gCHo9vxfEzM,what happened to the red person after the rotation,squat,2
+415,JbW8efAOOt0,what happened after the people in the video held their hands,start dancing,2
+416,2bQx5igckJc,what happened after the green subtitles in the video,display product,2
+417,HWFosaUWoSI,what happens after the pictures in video show the garage,display front door,2
+418,K5jY2chByPw,what happened after the person in the video wiped the leg of the horse,pacify horse,2
+419,a_EqAwUOxpM,what happened after the manicure in the video,showcase,2
+420,_CIoHeD7KQc,what happened in the video before he did the experiment,explain,2
+421,nvcMYiZhUuo,what happened before they dive in the video,water preparation,2
+422,m731tx8N5-Y,what happened to the bald man after he got his head close to the microphone,open mouth and sing,2
+423,SPjv6P5fxug,what happens after the bald man rides another man,fall down,2
+424,7vcihMnmssI,what happened to the bald man after he made the hole,go fishing,2
+425,er5jUsRr4y0,what happened to blond man after using mouthwash,gargle with fat man,2
+426,7LbBmVX33I4,what happened to the curly hair woman before clipping her hair,spray liquid,2
+427,df5rlVZD0Zc,what happened to the man in the red jacket before running,on tree,2
+428,7lxP-hWFA24,what happened to the man in the hat before he played the guitar,bubble,2
+429,i_LT0ef1n-Y,what happened to the red man after he spit out his tongue,slider,2
+430,SGAUpoTMSnA,what happened to the red kayaker before he went in the water,with boat overhead,2
+431,-CqVpCRxwTY,what happened after the woman played skating in the video,photograph,2
+432,VFC-V06hVj0,what happened to the woman in the hat before she got off the camel,camel stopped,2
+433,AwcM25G1h-g,what happened to the woman in the red vest before she shot,helmet,2
+434,8AUTKSqcmiM,what happened to the woman in the white hat after she shot the arrow,replacement,2
+435,54TIARWo-S8,what happened to the boy in the pink suit after his first long jump,long jump,2
+436,MpeN-IVIBc4,what happened before her spray painting,prepare pigments,2
+437,d4sX1jnL4BY,what happened to the man in the video before the floating sea,raise your right hand,2
+438,wCexKIuAj3A,what happened to the white beard man after he smoked,blow out cigarette smoke,2
+439,ut1AoOzqL4k,what happened to the man in the black vest after the long jump,hand clenched fist,2
+440,6Xsfwn5M6qs,what happened to the man in blue pants before he landed,somersault,2
+441,wLXty2wzuJg,what happened to mr. bean after he saw the swim trunks,swimming,2
+442,QX5e5Mla660,what happened to the person in black before he turned,support body with two hands,2
+443,T62XjoKbN8M,what happened to the person in black before he started pushing the ice pot,frictional runway,2
+444,2CegApogJd4,what happened to the person in blue after the game,clap with your teammates,2
+445,HtG-i1CG2Qs,what happened after the person in the blue went to the bathroom,wash hands,2
+446,oflwFZj9PNY,what happened to the person in red and black before the long jump,run up,2
+447,jt-Vnap5KP4,what happened to the person in the video after he played the organ,talk to others,2
+448,fe4r2-Y8k1U,what happened to the person in the video after they reached the top of the mountain,celebrate,2
+449,Z2gpcqXWNek,what happened after the person in the video showered the dog,dry it,2
+450,AB5cWhlQ0Kk,what happened to the person in the video after they installed the christmas tree,decorating christmas tree,2
+451,oT6WUU8-dgs,what happened to the person in the video before he drank water,clink with dog,2
+452,VjMMwpgOCPo,what happened to the person in black and white before he hit the ground,somersault,2
+453,lPw_BRbPw5s,what happened to the person in black after the dance,hand over nose,2
+454,NvRH4SoF09c,what happened to the person in black after he played the flute,turn to landscape,2
+455,oMtB-y49Yo8,what happened to the person in black before he baked the cake,make cake,2
+456,3nSOFmmA7FU,what happened to the person in black before the hula hoop,horst hula hoop,2
+457,QdmcjM2fluo,what happened to the person in the black jacket after he got down,pruning trees,2
+458,ZnKB0U96ZI4,what happened after the person in the black shorts hit the ball,ball hit the knee,2
+459,NNiJfr_ChH4,what happened to the person in black shorts before the long jump,run up,2
+460,ZgdMnfTqblw,what happened to the person in the black vest before he threw the ball,jump up,2
+461,uJ4OZfCjViM,what happened to the person in blue after he had swept the leaves,swing,2
+462,oGU7m7rCZ-Y,what happened to the person in the blue jacket before he played the saxophone,sax,2
+463,R-hsYQNtnn0,what happened after the person in blue shirt won the game,release pole,2
+464,UNXLfqkwKFc,what happened to the person in blue shorts before he pushed the vacuum,press button,2
+465,2vrR_5u2buU,what happened to the man in the puppet suit before he walked off the mat,roll forward,2
+466,Z-sWZUYL0ZU,what happened to the person in the gray jacket after he got the towel wet,spray cleaning solution,2
+467,OlR9S70AA74,what happened to the person in the green pants after the sailboat,turn around,2
+468,mkGUacg0GRc,what happened to the car of the person in the gray suit after the game,middle of tyres,2
+469,0w4OkBenR_k,what happened to the person in the purple after the paint,selfie,2
+470,OccEAILrU7M,what happened to the person in purple before he threw the discus,rotate,2
+471,1dDAcUliXrQ,what happened to the person wearing purple clothes after scoring for the second time,tease hair,2
+472,kPn9NzU4W48,what happened to the person in the red and white shoes before he started boxing,talk to screen,2
+473,Co_cpZWbzFk,what happened to the person in the red pants after he got the ball,throw ball,2
+474,Zt9qvbUnNhc,what happens to the person in red shorts before they flip over,run up,2
+475,ZxCdhz4ep0s,what happened to the person in the striped shirt after he played the piano,standing bow,2
+476,QPEAp7nf2Tk,what happened to the person wearing striped pants after sliding down the slide,climb up,2
+477,AjizhJc_reI,what happened after the person in the white suit hit someone,stalemate,2
+478,hyMqGr0mOfA,what happened to the person in white after he threw the darts,take down darts,2
+479,cYvFlrAnlzA,what happened after the person in white won the game,high five,2
+480,8lMncYsbrWw,what happened after the person in white ironed his suit,tidy,2
+481,y0ca-LbQErY,what happens after the person in white rides a spinning bike,drink,2
+482,zqxzFxya6T8,what happened to the person in the white shirt before he rode,horse,2
+483,C7yd6yEkxXE,what happened to the person wearing the white short sleeves after crossing the slope,forward,2
+484,QIUxLD27NuI,what happened to the person wearing yellow clothes after spelling rubik's cube,put down magic cube,2
+485,hQqoh0YxJYs,what happened to the person in yellow before he threw the plate,dance,2
+486,wE9sQbGdeAk,what happened to the person with the yellow glasses after he unplugged the oxygen tank,take off shoes,2
+487,0e7d39SwHCA,what happened after the person in the purple clothes and the person in the white clothes fell,hand in hand,2
+488,5c5PFa8GR-A,what happened to the person who was being cut off before the gesture,scratching nose,2
+489,stdtUoog49I,what happened to the person who rode the electric car before the parade passed,dispel crowd,2
+490,pzTqZWPubk8,what happened to the person with a black tie after brushing his teeth,toothpaste,2
+491,uktUeF3Fy7o,what happened to the person in the purple life jacket after he first put it on his shoulder,fall,2
+492,aAz3YL2RMr4,what happens after the tattoo artist has tattooed on the hand of someone,bright smile,2
+493,KXMZHfCwTO0,what happened to the bald person after he worked,dogs before him,2
+494,4LoAbHdHWqM,what happened to the person before the child hit love,pull rope,2
+495,46NS8dT15Hw,what happened to the adult in blue after the boy hit the toy,fixed toy,2
+496,6O4S2CpRB0A,what happened to the athlete's body size after the tug of war started,low down barycenter,2
+497,f2DS_AVorrY,what happened to the athlete before jumping,warm up exercise,2
+498,1QIUV7WYKXg,what happened to the athlete before he threw the javelin,run forward,2
+499,u0Dc0ZtudXY,what happened to the athlete in white before he hit the ground,back somersault,2
+500,4_jDgRsOGvY,what happened after the naked man finally finished playing the drum set,throw drumbeat,2
+501,3JBUWRKezUI,what happened to batman after spider-man landed ,land on ground,2
+502,prBiREYQ2vQ,what happened after the long distance run started,lens conversion,2
+503,_kmjpSZb3OI,what happened to the person in black after he painted it,satisfactory smile,2
+504,CaeZoHNHul0,what happened to the brunette woman before she played the piano,erect violin,2
+505,7BUr2cN8CLs,what happened to the person in black after making a fist,orange clothes male clenched fist,2
+506,gsQ-OEvrxjo,what happened to the person in the black suit after he had finished reading the cards,open,2
+507,SidTquTAtyk,what happened to the person in the black after the kite first landed,add two kites,2
+508,gWTndmDHZQc,what happened to the person with the black shirt after he got the guitar,weigh it down,2
+509,7CM2OYr-Csw,what happened to the blond girl after putting on the long line,kite flew high,2
+510,WINtiw-_3vg,what happened to the boy after playing saxophone,turn around,2
+511,9k19UUJtldg,what happened to the little boy in blue before he hit the ball,test ball,2
+512,sfbgZOHLkII,what happened to the camel after the woman sat down,stand up,2
+513,K1LiXUpoSmI,what happened after the kid's second serve,hit himself,2
+514,MAYrBia9Xnw,what happened to the child after he posed,get blow out,2
+515,LjPKKqe-VO0,what happened to the coach after the blond man jumped on the pole,kick off cushion,2
+516,2_H3lxMWvPo,what happened to the cow after it was brought up,run forward,2
+517,bWZkD_s1940,what happened to the dancing girl after she threw the stick ,circle,2
+518,cK0-WcGXacQ,what happened before the discus thrower threw the discus,rotate,2
+519,vzUeFzhVYLg,what happened to the diving person before the diving,takeoff,2
+520,fEBM3nPMen8,what happened after the diver got into the water,fish bite,2
+521,TiQcZKml5Bs,what happened after the person in the video took the dog,run,2
+522,IGT0dIKDGCw,what happened to the dog after the man in the hat threw the frisbee,bite frisbee,2
+523,PD-FXR7O9J0,what happened after flushing the dog,lift dog,2
+524,FxpP7lqvm30,what happened after the game,children shook hands,2
+525,OysON6LbF6Y,what happens after the harmonica is over,clapping,2
+526,pVuuVHA3RVw,what happened after the run,video end,2
+527,svNcNLEPKMc,what happened before the first athlete dived,handstand,2
+528,2DCHbuwZNSs,what happened to the first person to feed the fish in the video after they fed the fish,shake hand,2
+529,BjjN_aq_wq4,what happened after the first person appeared washing dishes,picture change,2
+530,cTxVTEzQDr8,what happened after the first person wearing the red hat fell,try again,2
+531,dGT_KGb0gyw,what happened after the game,clap hand to celebrate,2
+532,fLR-b-FDjlM,what happened after the game was over,role pause,2
+533,kMtjk1KFvXQ,what happened to this girl before the balance beam,do somersault,2
+534,d09u-0k3LdE,what happened to the girl in the video before the chain ball was thrown,pirouette,2
+535,7IwHwDuQdyU,what happened to the girl in the blue vest after she made a move,raise hand,2
+536,k-I4zLbgdpM,what happened after the little girl with the injured middle finger explained,carry out performance,2
+537,EBw5-KVV_PU,what happened to the girls before they danced,pendulum poss,2
+538,V08Q-DbT0GQ,what happened after the person with glasses drank with the boys in black,eat noodles,2
+539,HQVSLlKhupk,what happened to the goalkeeper after the ball flew to the goal,fall,2
+540,0mNZfG6CL74,what happened to the gymnast after the wrestling,dry powder,2
+541,V90CMuokf0c,what happened to the hull after the man in black paddled on the left side,drive to right,2
+542,CDncYtx6Lwc,what happened to the woman after she drank the water,pick up phone,2
+543,4UdxT6Zmero,what happened to the person using the lawn mower after finishing the grass,weeds are gone,2
+544,Woelo4XJkHE,what happened to the boy after eating an ice cream,laugh,2
+545,-Fk62y-1WHo,what happened after the little boy played,stop recording,2
+546,NjD6iWI3NvM,what happened before the boy did the exercise,amuse dog,2
+547,09ocXmGF-T4,what happened to the boy before he touched the potato ,adults chipping potatoes,2
+548,1px5LTVIR3A,what happened to the little boy in the white suit before he left,bow,2
+549,UNKf15ALDh8,what happened to the woman with long hair before planting trees,loose soil,2
+550,7dXqXFoju2M,what happened to the long hair woman after she smoked a cigarette,drink,2
+551,IxaBEVd2PZM,what happened to the woman with the long braid before she went to ballet,trot,2
+552,dKJMP8EmZjw,what happened after the man got on the boat,ship opened,2
+553,ivAvKRQQy1Q,what happened after the white man finished cooking,put in plate,2
+554,AQ3eFWxZ67U,what happened after the man came to the pool,jump into pool,2
+555,CFbkVO5b2g0,what happened to this man before he played the instrument,string string,2
+556,xuvp0jKMqRU,what happened to the man before the pumpkin carving,draw on pumpkin,2
+557,DOI6tsATsE4,what happened to the man in black before the show,white male nodding,2
+558,yRQpolWhJ6A,what happened after the person in blue shook hands,happy,2
+559,dN8LBey17O8,what happened to the person in gray before he mowed the lawn,height of grass,2
+560,iuc48VIWLJY,what happened to the man in the black hat after he left,skiing leather ring,2
+561,zH1MiuiTsx8,what happened after the person in the blue jacket drew the paddle,stop rowing,2
+562,YvPoAOrjX5I,what happened after the person in blue sent the ball,laugh,2
+563,teffBaLEZQg,what happened after the person wearing a blue hat fell,single hand support,2
+564,u_vLZxgO9Rw,what happened before the man in green jumped rope,squat,2
+565,TXSOSSGJYO0,what happened to the man in gray after he lifted his feet,raise hand,2
+566,_V62aT_K8Zw,what happened to the person in the hat after he smoked,draw,2
+567,V6Sy8zpJSuc,what happened after the person in the hat laid out the carpet,hold down,2
+568,1lwG-y_QCkc,what happened to the person in the hat before the engine,go to machine,2
+569,2ShsRSJ9cqE,what happened before the person in the hat soldered it,set up shelf,2
+570,Z-zG845frso,what happened to the person in the red jacket before he hit the ball,jump up,2
+571,0xBP-TSsqb0,what happened to the man in the video after combing his hair,wear hoop,2
+572,bYxVbXzQToI,what happened to the person in the white coat after he sat down,tune stringed instrument,2
+573,C5SXR9nMY3I,what happened to the person in the white coat after he wrapped the wrapping paper,tape,2
+574,H_IfIsKQ3Zw,what happened to the person in white after the phone call,assembly of steel,2
+575,NZskwwovSZI,what happens to the person in white after get tattoos,relax with mobile phone,2
+576,sNTOUuE7ZfM,what happened to the person in the tie after the dance,make face,2
+577,gNUCdXGxp0w,what happened to the person in the green vest after he mentioned the bridle,horse is moving,2
+578,Ko7Nt8UDP4Q,what happened to the person who opened the refrigerator after he had finished eating sandwich,big mother,2
+579,7-UlUnaBjXU,what happened after the person wearing a white helmet accelerated up the slope,motorcycle jump,2
+580,-pkfcMUIEMo,what happened after the person shoveled the snow,piled to corner,2
+581,HowkVy5fOyk,what happened after the matador show ,audience cheered,2
+582,fh21bbDSVmA,what happened after the gymnastic performance of the man in the white,others come on field,2
+583,iAes5SVj_Fg,what happened to the man in yellow after the flip,audience applauded,2
+584,jWODw4vy45M,what happened after the dog closest to the camera walked ,lens deflection,2
+585,CfqnHsp6olc,what happened to the number 10 player before he played football,put ball,2
+586,EQWdo0FcKAo,what happened to the old person before he danced with the man in white,in dialogue,2
+587,V-46E7jMm-Y,what happened to the old person in the black suit before he shot,aim,2
+588,C27eI-S1Vkw,what happened to the operator after the hair was tied up,go through last,2
+589,0Um-HgjcnXY,what happened after the orange player won,fist,2
+590,bBRzBh0gAZQ,what happened after the contestants started running,takeoff,2
+591,vHnZ3NrZER0,what happened to the person in black before he cut the paper,measurement length,2
+592,Ynvd8OuXKGw,what happened to the person in black before he danced,putting camera,2
+593,ojTFTIwsa_c,what happened to the person in black before the car wash,wiping car with foam,2
+594,JB-ynj70saA,what happened after the person with the black pants came down the second time,fall,2
+595,GsPE54bMFwE,what happened to the person in the white short sleeves before the rotation,squat down,2
+596,87F9xGaMwCw,what happened after the person wearing black clothes for fitness,shut down machine,2
+597,uLsq6gQXQPM,what happened to the the person in green after he played the slide,climb stairs,2
+598,Y_nyVFn70Lk,what happened to the person in green after they washed the dishes,washing spoon,2
+599,OUxgs_QlPHE,what happened to the person in the green bathing suit before he went in the dive,dive preparation,2
+600,MDsJa6Yitwc,what happened to the person in gray after he painted the wall,touch lens,2
+601,b6QSzGwI9m4,what happened to the person in the orange suit after he went on the court,shake table,2
+602,VJh9W3Gcpmo,what happened to the person in red after he played the drums,be smashed in drum,2
+603,I16FTpQQiic,what happened to the person in red before he jumped,anchor jump rope,2
+604,zpaS2iYrJjk,what happened to the person in the red jacket after the interview with the crowd,hit masses,2
+605,L5IbDi09Yb4,what happened to the person wearing diving suits after going to sea,see undersea biology,2
+606,4uKoAk5NCkI,what happened to the person in the video after the practice,bow,2
+607,udSHsodv3gY,what happened after the person in the video brushed his horse,horse nodding,2
+608,Au4PfoK7hyw,what happened to the person in the video after the perform,put down flute,2
+609,-YwrMtiqHKg,what happened after the person in the video did the skin care,wash face,2
+610,k3WPc9HmtLM,what happened to the person in the video after they finished the cream,put on bread,2
+611,AB480dHyDeM,what happened after the person in the video washed his shoes,display shoes,2
+612,z6pmp8TrAVo,what happened after the person in the video washed the dishes,laugh,2
+613,chmegNbBTNc,what happened to the person in the video before he wiped the table,touch liquid,2
+614,yGTIEmZ7S2w,what happened to the person in the video before the javelin was thrown,run up,2
+615,YaC68rE4lwA,what happened to the person in the video before he covered his mouth,mouth leaking,2
+616,nYl_tYmijlM,what happened to the person in white after he played the drums,immerse in it,2
+617,i5qTK0mInTc,what happened after the person in yellow turned on the tv,sit on sofa,2
+618,JGPhQX97OSE,what happened after the person on the field played,leave court,2
+619,KZ1NEffR2Qg,what happened to the person in the red pants after he jumped the rope,to everyone ju gong,2
+620,GgnM5RGNtDE,what happened to the person in the blue short sleeves after he stepped on the rope,start dancing,2
+621,Y05GAiavfOg,what happened after the person in the video had his nails manicured,display finger,2
+622,aH39BSM0-Ag,what happened to the person in the white hat after he picked up the ball,throw out again,2
+623,I9ficvPdpZg,what happened to the person in the white coat after he painted the paint,turn picture back,2
+624,Npj77L31bhw,what happened after the person wearing a hat tattooed,middle finger,2
+625,Jix3poZOeZA,what happened after the player hit the first goal,pick up racket,2
+626,sPK-sbHIb3w,what happened to the athlete before shooting,throw ball out,2
+627,huFOZ2BiM_k,what happened before the athlete wearing a red trousers fell to the ground,handstand,2
+628,Vxw3yFCV2iA,what happened to the athlete after he caught the rope,get up slowly,2
+629,idkQqlwyff8,what happened to the boy in red before the old person in blue knocked on the toy,takeoff,2
+630,ldAHwbF8uWI,what happened to the person in red after he pulled his wrist,lose to opponent,2
+631,2-AMrzL7V-U,what happened to the referee after the first long jum,measuring distance,2
+632,FnPS6zn5S7M,what happened to the judge before the woman in the gym suit hit the ground,backward dodge,2
+633,PdwWFueQErM,what happened before the snow sweeper picked up his tools,sweeping snow,2
+634,K1OsjA-f17E,what happened to the staff after stopped the car,start car wash,2
+635,RXDVJlb97OI,what happened to the person who stood after twist,twist butt,2
+636,S6Sg1l78IW0,what happened to the standing woman after playing,put down flute,2
+637,6H0D8VaIli0,what happened after the hip hop contest in the video,handshake,2
+638,03c6QhTMDSs,what happened to the person wearing striped clothes after the explanation was over,demo bicycles,2
+639,VSsZZZHn1L0,what happened to the girl in a striped dress after pouring mouthwash,gargle,2
+640,eMgC7I-GcgA,what happened to the surfers after the flips,fall,2
+641,AtbTioB1_Kw,what happened after the trainer ran a certain distance,throw long pole,2
+642,bYNQ0GrCt64,what happened to the weight lifter after he held the barbell,lift barbell,2
+643,_jIXs7AFTxw,what happened to the person in the white suit after he wiped his feet,wear socks,2
+644,_QBTD1bLSI0,what happened to the person in white after he washed his hands,wipe hands,2
+645,e0yLhjXQIXI,what happened to the person in white after he flipped,site,2
+646,AjqnGUbsduw,what happened to the person in white and the gray man after the wrench,stalemate,2
+647,2UhbDOd43zU,what happened to the person in white before the person in black practiced for the first time,hold black clothes man,2
+648,Vhn4SuPhu-0,what happened to the person in white before the person in black practiced for the first time,sleep,2
+649,QJ5xv6oj1sk,what happened to the person in white shirt after he lifted his hand for the fourth time,turn around,2
+650,iKclcQEl4zI,what happened to the girl in  white sleeves before the last flip,run up,2
+651,cAiig_569fI,what happened to the woman in the blue vest after she jumped,hit ball,2
+652,Db9VWkgMpbE,what happened to the woman in the video before she drank water,motion,2
+653,utgRhyBvtRU,what happened to the woman in white before she lay down for the second time,clapping,2
+654,6xBh3vzhgo4,what happened to the woman in the life jacket after the speedboat started,skater surfers,2
+655,1PNjVTM0Zto,what happened to the person in yellow clothes before moving his feet for the first time,raise hand,2
+656,iQnnCZTl_7U,what happened to the person in young after he finished the cake,clapping,2
+657,kpOAGEYHts8,what happened to the woman before the deal,put cards in box,2
+658,zTHkqpNFGno,what happened to the person in the black coat after he combed the bangs,fiddle with hair,2
+659,LYTWYSqsTCE,what happened to the person in gray after the third wall,go away,2
+660,hIHeMA1oRrY,what happened to the woman in the video after she put on her sunscreen,refresh,2
+661,CvbL36Y8hN0,what happened to the woman in the video before the bungee jump,psychological adjustment,2
+662,qWgF9hxNbP8,what happened to the person in undressed after they were thrown to the ground,fall off stage,2
+663,VpZzLvzU7_k,what happened after getting off the cable car,skidding,2
+664,hxErUs42bBI,what happened after the person in red waved his hand,forward,2
+665,H_JLBvfP88U,what happened after the cow came out of the door,chasing people,2
+666,3i3SUPsyZtA,what happened after the chef poured the eggs into the round pan,stir,2
+667,MAGeYoFuCgo,what happened to the chef after he poured the noodles into the filter bucket,spaghetti,2
+668,5UZ2ft8Y3sI,what happened after the curling was thrown out,bump into pot,2
+669,j6BCgvUusWs,what happened after the first dealer finished the card,ask for note,2
+670,amgpZtvd9h0,what happened after the hair of girl was braided,bow hairstyle,2
+671,9eniCub7u60,what happened after the little boy ran out,two people dance,2
+672,Av0VsTxJd78,what happened after someone lifted up the window,skiing,2
+673,YVqRQDkdA8U,what happened after the person in blue jumped,fall down,2
+674,PFeerDZbGn8,what happened after the person threw out the plate,dog chases plate,2
+675,auO4r3De6vc,what happened after the owner dropped the plate,dog came back with something,2
+676,z6l9utYlIrw,what happened after the person wearing red clothes got up,be gone,2
+677,hRsn4nesCQo,what happened to the person in gray after he turned around,dipping pigment,2
+678,2uUNiV8xmEo,what happened to the player in white after he fell,attack,2
+679,I2XqSiNerwg,what happened after the person in white took out the pole,swing rod,2
+680,hvrKRg166eQ,what happened after the woman waved in the middle,raise your left hand,2
+681,5dN-MpXG9OE,what happened after the player in the video jumped forward,back somersault,2
+682,Ki1bs5X_S5k,what happened after the kid hit the bottle with a stick,plaything,2
+683,kistIwzeQOU,what happened before the man wearing white clothes put on a wall cloth,stand on bench,2
+684,UvOEuhS0V3E,what happens to a long hair woman before a short hair man eats something,rouge lips,2
+685,lOZ9bfzq89o,what happened to the athlete in green before he doubled over,original takeoff,2
+686,FWZ6wgaJ_L4,what happened to the person wearing blue clothes after cutting things out,rinse,2
+687,G4-qjGC_3VA,what happened before the person in black jumped up,straighten rod,2
+688,LsVCwr6qPmY,what happened after the person in blue ironed his collar,ironing sleeves,2
+689,4MwnHtlaEUY,what happened after the person in the video assembled the bicycle,start riding,2
+690,lU6DMCif3eE,what happened to the person in the video after blowing the first paragraph,open mouth ventilation,2
+691,VvsYrfEvvUw,what happened to the person in the video after holding the parallel bars,support yourself,2
+692,cCDffwsJvsY,what happened to the person in the video after he took out the ignition,light,2
+693,qaml4eEk9hY,what happened to the person in the video after the first turn,mice,2
+694,meNgZdu8tIk,what happened to the person in the video before he baked the sandwich,smear oil,2
+695,g9lNpSAtHgI,what happened to the person in the video before he painted the chair,lacquer,2
+696,2k-qlZxc9l4,what happened to the person in the video before shaving hair of his legs,coated hair cream,2
+697,nhQTxZlzG1Q,what happens after the person in black play games,rest,2
+698,z8x3wUZYOaM,what happened to the person wearing black clothes after pulling hair,throw away,2
+699,SB0dU5oDvaE,what happened after the person in black shoveled the snow,dog jumped up,2
+700,tgPD2SZo_DY,what happened to the person in blue after he ran off with the needle,counterclockwise running,2
+701,d6gGZFQOxOg,what happened to the person in green before he lifted the weight,squat,2
+702,DHjoAOus3xM,what happened after the two ships approached,white men fall in water,2

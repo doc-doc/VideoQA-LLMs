@@ -1,5 +1,5 @@
 # VideoQA-LLMs
-This repo holds the data for <a href="https://arxiv.org/abs/2408.04223"> VideoQA in the Era of LLMs: An Empirical Study </a> (accepted to IJCV'25).
+This repo holds the data for <a href="https://link.springer.com/article/10.1007/s11263-025-02385-8"> VideoQA in the Era of LLMs: An Empirical Study </a> (accepted to IJCV'25).
 Please also refer to a related talk: <a href="https://www.youtube.com/watch?app=desktop&v=mIRAo4Xla_Y"> VideoQA in the Era of LLMs</a> delivered by Prof Angela Yao at CVPR'24 Video-Language workshop.
 
 # Cite
